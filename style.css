@@ -1,0 +1,35 @@
+
+.uvindex {
+  padding: 5px;
+}
+
+.oneOfFive {
+  box-sizing: border-box;
+  width: 20%;
+  margin: 5px;
+  padding: 5px;
+  
+}
+
+.oneOfFive:first-child {
+  margin-left: 0px;
+}
+
+.oneOfFive:last-child{
+  margin-right: 0px;
+}
+
+.forecast {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px 0px;
+}
+
+img.card-image-top {
+  width: 100px;
+  height:100px;
+  
+}
+
+
